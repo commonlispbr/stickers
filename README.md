@@ -4,7 +4,7 @@ Collection of stickers about Lisp in general and as well Common Lisp
 </a><img src="12120438.png" min-width="200px" max-width="200px" width="200px" align="center"> 
 </a><img src="12120439.png" min-width="200px" max-width="200px" width="200px" align="center"> 
 </a><img src="12120440.png" min-width="200px" max-width="200px" width="200px" align="center"> 
-</a><img src="12120441.png.png" min-width="200px" max-width="200px" width="200px" align="center"> 
+</a><img src="12120441.png" min-width="200px" max-width="200px" width="200px" align="center"> 
 </a><img src="12120443.png" min-width="200px" max-width="200px" width="200px" align="center"> 
 </a><img src="12120444.png" min-width="200px" max-width="200px" width="200px" align="center"> 
 </a><img src="12120445.png" min-width="200px" max-width="200px" width="200px" align="center"> 
