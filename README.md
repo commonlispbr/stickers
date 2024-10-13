@@ -28,5 +28,7 @@ Collection of stickers about Lisp in general and as well Common Lisp
 
 </a><img src="lisplogo_warning2_256.png" min-width="200px" max-width="200px" width="200px" align="center"> 
 </a><img src="lisplogo_warning_256.png" min-width="200px" max-width="200px" width="200px" align="center"> 
+</a><img src="st_preview.png" min-width="300px" max-width="300px" width="300px" align="center"> 
+</a><img src="st_small.png" min-width="230px" max-width="230px" width="230px" align="center"> 
 
 
