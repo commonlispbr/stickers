@@ -25,5 +25,10 @@ Collection of stickers about Lisp in general and as well Common Lisp
 </a><img src="made-with-lisp.svg" min-width="200px" max-width="200px" width="200px" align="center"> 
 </a><img src="maxresdefault.jpg" min-width="200px" max-width="200px" width="200px" align="center"> 
 </a><img src="open-image-lisp-7-590x391.jpg" min-width="200px" max-width="200px" width="200px" align="center"> 
-</a><img src="thought-bubble-of-lisp.svg" min-width="200px" max-width="200px" width="200px" align="center"> 
+</a><img src="st_small_preview.png" min-width="200px" max-width="200px" width="200px" align="center"> 
+</a><img src="stamp_01-removebg-preview.png" min-width="200px" max-width="200px" width="200px" align="center"> 
+</a><img src="lisplogo_alien_arrow.svg" min-width="200px" max-width="200px" width="200px" align="center"> 
+</a><img src="d3efa2l-b50b8882.png" min-width="200px" max-width="200px" width="200px" align="center"> 
+</a><img src="ESlMt1eUwAAaIdX-removebg-preview.png" min-width="200px" max-width="200px" width="200px" align="center"> 
+
 
