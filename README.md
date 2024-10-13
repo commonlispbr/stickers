@@ -32,7 +32,7 @@ Collection of stickers about Lisp in general and as well Common Lisp
 </a><img src="maxresdefault.jpg" min-width="175px" max-width="175px" width="175px" align="center"> 
 </a><img src="lisp_mascot-45-degree.png" min-width="250px" max-width="250px" width="250px" align="center">
 </a><img src="gd37o4f0y0051.png" min-width="220px" max-width="220px" width="220px" align="center"> 
-</a><img src="cover3-removebg-preview.png" min-width="250px" max-width="250px" width="250px" align="center"> 
+</a><img src="cover3-removebg-preview.png" min-width="400px" max-width="400px" width="400px" align="center"> 
 
 
 
