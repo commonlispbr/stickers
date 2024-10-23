@@ -37,6 +37,8 @@ Collection of stickers about Lisp in general and as well Common Lisp
 </a><img src="st_small.png" min-width="200px" max-width="200px" width="200px" align="center"> 
 </a><img src="enjoy-lisp.jpg" min-width="200px" max-width="200px" width="200px" align="center"> 
 </a><img src="memelisp.jpg" min-width="200px" max-width="200px" width="200px" align="center"> 
+<br>
+<br>
 </a><img src="humor-lisp-meme.png" min-width="500px" max-width="500px" width="500px" align="center"> 
 
 
