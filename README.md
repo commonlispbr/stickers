@@ -37,9 +37,10 @@ Collection of stickers about Lisp in general and as well Common Lisp
 </a><img src="st_small.png" min-width="200px" max-width="200px" width="200px" align="center"> 
 </a><img src="Lisp-Programming-Books-2017.png" min-width="200px" max-width="200px" width="200px" align="center"> 
 </a><img src="image-preview.png" min-width="200px" max-width="200px" width="200px" align="center"> 
-</a><img src="enjoy-lisp.jpg" min-width="200px" max-width="200px" width="200px" align="center"> 
-</a><img src="hqdefault.png" min-width="200px" max-width="200px" width="200px" align="center"> 
-</a><img src="memelisp.jpg" min-width="200px" max-width="200px" width="200px" align="center"> 
+</a><img src="enjoy-lisp.jpg" min-width="180px" max-width="180px" width="180px" align="center"> 
+</a><img src="memelisp.jpg" min-width="180px" max-width="180px" width="180px" align="center"> 
+</a><img src="hqdefault.png" min-width="250px" max-width="250px" width="250px" align="center"> 
+</a><img src="lisp.svg" min-width="150px" max-width="150px" width="150px" align="center"> 
 <br>
 <br>
 </a><img src="humor-lisp-meme.png" min-width="500px" max-width="500px" width="500px" align="center"> 
