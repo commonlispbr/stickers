@@ -55,6 +55,8 @@ Collection of stickers about Lisp in general and as well Common Lisp
 </a><img src="lisp4web.png" min-width="600px" max-width="600px" width="600px" align="center"> 
 <br>
 </a><img src="lisp-girl.png" min-width="300px" max-width="300px" width="300px" align="center"> 
+</a><img src="m11942975.png" min-width="300px" max-width="300px" width="300px" align="center"> 
+</a><img src="buy-land-of-lisp.png" min-width="300px" max-width="300px" width="300px" align="center"> 
 </a><img src="a3c74b.png" min-width="400px" max-width="400px" width="400px" align="center"> 
 
 
