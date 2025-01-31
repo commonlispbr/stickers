@@ -52,12 +52,11 @@ Collection of stickers about Lisp in general and as well Common Lisp
 </a><img src="land_of_lisp_parentheses_for_breakfast.gif" min-width="400px" max-width="400px" width="400px" align="center"> 
 <br>
 <br>
-</a><img src="land-of-lisp-kawaii.png" min-width="300px" max-width="300px" width="300px" align="center"> 
-</a><img src="81bDenoZ.png" min-width="300px" max-width="300px" width="300px" align="center"> 
-</a><img src="lisp4web.png" min-width="300px" max-width="300px" width="300px" align="center"> 
-<br>
-</a><img src="lisp-girl.png" min-width="300px" max-width="300px" width="300px" align="center"> 
-</a><img src="buy-land-of-lisp.png" min-width="300px" max-width="300px" width="300px" align="center"> 
+</a><img src="land-of-lisp-kawaii.png" min-width="400px" max-width="400px" width="400px" align="center"> 
+</a><img src="81bDenoZ.png" min-width="400px" max-width="400px" width="400px" align="center"> 
+</a><img src="lisp4web.png" min-width="700px" max-width="700px" width="700px" align="center"> 
+</a><img src="lisp-girl.png" min-width="200px" max-width="200px" width="200px" align="center"> 
+</a><img src="buy-land-of-lisp.png" min-width="400px" max-width="400px" width="400px" align="center"> 
 </a><img src="a3c74b.png" min-width="400px" max-width="400px" width="400px" align="center"> 
 
 
