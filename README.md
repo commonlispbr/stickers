@@ -47,14 +47,16 @@ Collection of stickers about Lisp in general and as well Common Lisp
 </a><img src="logo-red.png" min-width="300px" max-width="300px" width="300px" align="center"> 
 <br>
 <br>
-
 </a><img src="10-13 17-32-37.png" min-width="400px" max-width="400px" width="400px" align="center"> 
 </a><img src="land_of_lisp_parentheses_for_breakfast.gif" min-width="400px" max-width="400px" width="400px" align="center"> 
 <br>
-</a><img src="lisp-girl.png" min-width="200px" max-width="200px" width="200px" align="center"> 
-</a><img src="lisp4web.png" min-width="800px" max-width="800px" width="800px" align="center"> 
 <br>
-</a><img src="a3c74b.png" min-width="600px" max-width="600px" width="600px" align="center"> 
+</a><img src="land-of-lisp-kawaii.png" min-width="300px" max-width="300px" width="300px" align="center"> 
+</a><img src="lisp4web.png" min-width="600px" max-width="600px" width="600px" align="center"> 
+<br>
+</a><img src="lisp-girl.png" min-width="300px" max-width="300px" width="300px" align="center"> 
+</a><img src="a3c74b.png" min-width="400px" max-width="400px" width="400px" align="center"> 
+
 
 
 
